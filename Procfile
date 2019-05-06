@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT surgicallookup_2981.wsgi:application
